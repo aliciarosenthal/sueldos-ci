@@ -12,8 +12,7 @@ Autores:
 Integración Continua:
 ---
 
-todo
-
+[![Build Status](https://travis-ci.org/nac-testing/sueldos-ci.svg)](https://travis-ci.org/nac-testing/sueldos-ci)
 
 **Unlam. 2014**
 
