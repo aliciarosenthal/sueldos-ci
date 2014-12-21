@@ -3,6 +3,6 @@ import static org.junit.Assert.*
 
 class SueldosTest {
     @Test public void suma() {
-        assertEquals(2, 1+1)
+        assertEquals(5, 1+1)
     }
 }
